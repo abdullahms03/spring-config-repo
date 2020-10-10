@@ -1,5 +1,5 @@
 test:
   prop: Operating system
   props:
-    list: iOS, Android, Windows
-    map: "{iOS: 'Apple', Android: 'Google', Windows: 'Microsoft'}"
+    list: iOS, Android, Windows, Symbian
+    map: "{iOS: 'Apple', Android: 'Google', Windows: 'Microsoft', Symbian: 'Nokia'}"
