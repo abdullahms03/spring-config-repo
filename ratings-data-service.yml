@@ -1,4 +1,4 @@
-server.port: 8083
+#server.port: 8083
 spring.application.name: ratings-data-service
 
 test:
@@ -7,4 +7,4 @@ test:
     list: iOS, Android, Windows
     map: "{iOS: 'Apple', Android: 'Google', Windows: 'Microsoft'}"
 
-spring.profiles.active: test
+#spring.profiles.active: test
