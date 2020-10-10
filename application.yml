@@ -1,5 +1,1 @@
-test:
-  prop: Operating system
-  props:
-    list: iOS, Android, Windows, Symbian
-    map: "{iOS: 'Apple', Android: 'Google', Windows: 'Microsoft', Symbian: 'Nokia'}"
+eureka.client.serviceUrl.defaultZone: http://localhost:9000/eureka/
