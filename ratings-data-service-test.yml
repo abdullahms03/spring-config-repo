@@ -4,7 +4,7 @@ spring.application.name: ratings-data-service
 test:
   prop: OS
   props:
-    list: iOS, Android, Windows
-    map: "{iOS: 'Apple', Android: 'Google', Windows: 'Microsoft'}"
+    list: iOS, Android, Windows, Symbian
+    map: "{iOS: 'Apple', Android: 'Google', Windows: 'Microsoft', Symbian: 'Nokia'}"
 
 spring.profiles.active: test
