@@ -1,5 +1,4 @@
 server.port: 8083
-spring.application.name: ratings-data-service
 
 test:
   prop: OS
