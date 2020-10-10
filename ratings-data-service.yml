@@ -1,0 +1,3 @@
+test:
+  props:
+    list: iOS, Android, Windows, Symbian, Other
