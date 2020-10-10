@@ -1,7 +1,4 @@
-server.port: 8083
-
 test:
-  prop: OS
   props:
     list: iOS, Android, Windows, Symbian
     map: "{iOS: 'Apple', Android: 'Google', Windows: 'Microsoft', Symbian: 'Nokia'}"
