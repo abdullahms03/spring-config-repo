@@ -6,5 +6,3 @@ test:
   props:
     list: iOS, Android, Windows, Symbian
     map: "{iOS: 'Apple', Android: 'Google', Windows: 'Microsoft', Symbian: 'Nokia'}"
-
-spring.profiles.active: test
